@@ -14,24 +14,23 @@ Python (Python 3.5 recommended) - https://www.python.org/
 
 ---
 ###Installation
-`
+```
 1.Download the files (Clone or download the zip file)
 
 2.Edit "ytdl.bat", change path followed by 'cd' to any path you desire.
 
-
 3.Add the location of 'Youtube-D-master' to PATH. Help can be found here https://www.java.com/en/download/help/path.xml
-`
+```
 **Optional**
 
 
 If you want to create a shortcut key to run the .bat script, then
-`
+```
 1.Right click on the 'ytdl.bat' ->Send to Desktop.
 
 
 2.Now Right click on the shortcut -> Properties -> Under Shortcut tab -> Shortcut key -> Set desired shortkey. Eg- Alt+Ctrl+Y
-`
+```
 
 
 
@@ -39,7 +38,7 @@ If you want to create a shortcut key to run the .bat script, then
 ###Usage
 
 If you created a shortcut key,
-`
+```
 1.Press the series of keys.
 
 
@@ -53,10 +52,10 @@ If you created a shortcut key,
 
 3. Press Enter and your good to go. File gets downloaded to the place you set at step 2 of Installation.
  
-`
+```
 
 If you did not create a shortcut key,
-`
+```
 1.Run 'ytdl.bat'.
 
 
@@ -69,4 +68,4 @@ If you did not create a shortcut key,
    
 
 3. Press Enter and your good to go. File gets downloaded to the place you set at step 2 of Installation.
-`
+```
