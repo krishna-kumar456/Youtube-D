@@ -19,7 +19,7 @@ Python (Python 3.5 recommended) - https://www.python.org/
 
 2.Edit "ytdl.bat", change path followed by 'cd' to any path you desire.
 
-3.Add the location of 'Youtube-D-master' to PATH. Help can be found here https://www.java.com/en/download/help/path.xml
+3.Add the location of 'Youtube-D-master' to PATH. Help can be found [here](https://www.java.com/en/download/help/path.xml)
 ```
 **Optional**
 
